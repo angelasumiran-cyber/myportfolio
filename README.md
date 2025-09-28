@@ -1,2 +1,2 @@
 # myportfolio
-Link: [file:///C:/portfolio/style.css/index.html#)
+Link: file:///C:/portfolio/style.css/index.html#
